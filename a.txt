@@ -1,4 +1,5 @@
 haha
 hahaha
-do you know how to use diff?
+do you know how to use diffl?// then I changed this line
 do you know how to use git patch?
+then I add thisline
